@@ -1,0 +1,18 @@
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\berkant\Desktop\tc_olustur\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\berkant\Desktop\tc_olustur\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\berkant\Desktop\odev\tc_olustur\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\berkant\Desktop\odev\tc_olustur\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\berkant\Desktop\odev\tc_olustur\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\berkant\Desktop\odev\tc_olustur\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\berkant\Desktop\odev\tc_olustur\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\berkant\Desktop\odev\tc_olustur\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\berkant\Desktop\odev\tc_olustur\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
