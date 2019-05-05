@@ -1,0 +1,14 @@
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\berkant\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\berkant\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\berkant\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\berkant\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\berkant\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\berkant\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\berkant\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
