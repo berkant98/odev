@@ -1,0 +1,16 @@
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\berkant\Desktop\gp odevi\matris carpımı\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+C:\Users\berkant\Desktop\gp odevi\matris carpımı\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+C:\Users\berkant\Desktop\gp odevi\matris carpımı\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\berkant\Desktop\gp odevi\matris carpımı\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\berkant\Desktop\gp odevi\matris carpımı\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\berkant\Desktop\gp odevi\matris carpımı\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\berkant\Desktop\gp odevi\matris carpımı\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\berkant\Desktop\gp odevi\matris carpımı\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
